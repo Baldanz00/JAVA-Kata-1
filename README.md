@@ -13,6 +13,7 @@ https://github.com/Baldanz00/OOP-mattoncino.git
 
 4️⃣ **Conta le faccine** 😊 [https://www.codewars.com/kata/583203e6eb35d7980400002a/java]
 Giochiamo con array e stringhe:
+https://github.com/Baldanz00/conta-le-faccine-sorridenti.git
 
 5️⃣ **Costruiamo un quadrato** 🟦 [https://www.codewars.com/kata/59a96d71dbe3b06c0200009c/java]
 Disegna figure con Java:
