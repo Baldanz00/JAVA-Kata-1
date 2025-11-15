@@ -9,6 +9,7 @@ https://github.com/Baldanz00/OOP-canzone.git
 
 3️⃣ **OOP: Mattoncino** 🧱 [https://www.codewars.com/kata/55b75fcf67e558d3750000a3/java]
 Scrivi una classe che crei un mattoncino e i suoi metodi:
+https://github.com/Baldanz00/OOP-mattoncino.git
 
 4️⃣ **Conta le faccine** 😊 [https://www.codewars.com/kata/583203e6eb35d7980400002a/java]
 Giochiamo con array e stringhe:
