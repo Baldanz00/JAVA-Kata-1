@@ -17,6 +17,7 @@ https://github.com/Baldanz00/conta-le-faccine-sorridenti.git
 
 5️⃣ **Costruiamo un quadrato** 🟦 [https://www.codewars.com/kata/59a96d71dbe3b06c0200009c/java]
 Disegna figure con Java:
+https://github.com/Baldanz00/build-a-square.git
 
 6️⃣ **Numeri esplosi** 💥 [https://www.codewars.com/kata/586bca7fa44cfc833e00005c/java]
 Crea una funzione che, dato un numero restituisca un array rispettando i requisiti richiesti:
