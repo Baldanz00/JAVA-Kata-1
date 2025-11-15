@@ -5,6 +5,7 @@ https://github.com/Baldanz00/oop-pirateria-orientata-agli-oggetti.git
 
 2️⃣ **OOP: Canzone** 🎵 [https://www.codewars.com/kata/6089c7992df556001253ba7d/java]
 Scrivi una classe Song ed un suo metodo specifico:
+https://github.com/Baldanz00/OOP-canzone.git
 
 3️⃣ **OOP: Mattoncino** 🧱 [https://www.codewars.com/kata/55b75fcf67e558d3750000a3/java]
 Scrivi una classe che crei un mattoncino e i suoi metodi:
