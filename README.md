@@ -21,3 +21,4 @@ https://github.com/Baldanz00/build-a-square.git
 
 6️⃣ **Numeri esplosi** 💥 [https://www.codewars.com/kata/586bca7fa44cfc833e00005c/java]
 Crea una funzione che, dato un numero restituisca un array rispettando i requisiti richiesti:
+https://github.com/Baldanz00/numeri-esplosi.git
